@@ -1,9 +1,7 @@
 # About
 
-![Screenshot](project-ss.png)
 
-Hello! This project is a VUE JS build and implemented state management using VUEX. State management wasnt needed
-for this project, but for the sake of learning I implemented it.
+Hello! This project is a VUE JS build and implemented state management using VUEX. 
 The application uses conditional rendering and list rendering to render different components based on the state
 of application. Animation are done using Animate.css library and Vue inbuilt classes for animation.
 
@@ -16,7 +14,7 @@ of application. Animation are done using Animate.css library and Vue inbuilt cla
 - Frontend Framework : VUE JS
 - Design : Vanilla CSS, Animation.CSS
 - State Management : VUEX
-- API : Github API
+- API : Github Oauth2
 
 ### Takeaways
 
