@@ -5,9 +5,6 @@ Hello! This project is a VUE JS build and implemented state management using VUE
 The application uses conditional rendering and list rendering to render different components based on the state
 of application. Animation are done using Animate.css library and Vue inbuilt classes for animation.
 
-## Links
-
-[Checkout the live website here](https://github-timeline-tracker.netlify.app/ "Website preview")
 
 ## Tech Stack
 
